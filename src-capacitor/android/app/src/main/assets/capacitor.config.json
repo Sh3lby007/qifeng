@@ -1,0 +1,10 @@
+{
+  "appId": "qifeng.com",
+  "appName": "qifeng",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.0.96:9500"
+  }
+}

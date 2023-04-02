@@ -1,0 +1,7 @@
+{
+  "appId": "qifeng.com",
+  "appName": "qifeng",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
